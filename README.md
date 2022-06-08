@@ -1,16 +1,9 @@
-# learn_language_app
+# Learn Language App UI Concept
 
-A new Flutter project.
+A learning language application using Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project developed using Dart language. UI Design taken from Freepik
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-06-08 115535](https://user-images.githubusercontent.com/44563274/172528491-b4b11dbf-5a8c-4aa0-b33c-12b1e1353db3.png)
